@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\repo\\GESTION_HELADERIA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\repo\\GESTION_HELADERIA\\Interfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interfaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\repo\\GESTION_HELADERIA\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\repo\\GESTION_HELADERIA\\FormularioAgregarProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormularioAgregarProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\repo\\GESTION_HELADERIA\\ProductosInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductosInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\repo\\GESTION_HELADERIA\\GESTION_HELADERIA.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -38,46 +42,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GESTION_HELADERIA.csproj",
               "DocumentMoniker": "C:\\repo\\GESTION_HELADERIA\\GESTION_HELADERIA.csproj",
               "RelativeDocumentMoniker": "GESTION_HELADERIA.csproj",
               "ToolTip": "C:\\repo\\GESTION_HELADERIA\\GESTION_HELADERIA.csproj",
               "RelativeToolTip": "GESTION_HELADERIA.csproj",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAlwGUAAAAdAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAGkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-06T12:54:21.357Z",
+              "WhenOpened": "2025-01-07T00:46:54.726Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Interfaz.cs",
+              "DocumentMoniker": "C:\\repo\\GESTION_HELADERIA\\Interfaz.cs",
+              "RelativeDocumentMoniker": "Interfaz.cs",
+              "ToolTip": "C:\\repo\\GESTION_HELADERIA\\Interfaz.cs",
+              "RelativeToolTip": "Interfaz.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAAJYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T00:36:53.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosInfo.cs",
+              "DocumentMoniker": "C:\\repo\\GESTION_HELADERIA\\ProductosInfo.cs",
+              "RelativeDocumentMoniker": "ProductosInfo.cs",
+              "ToolTip": "C:\\repo\\GESTION_HELADERIA\\ProductosInfo.cs",
+              "RelativeToolTip": "ProductosInfo.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T19:50:31.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\repo\\GESTION_HELADERIA\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\repo\\GESTION_HELADERIA\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T03:21:36.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormularioAgregarProducto.cs",
-              "DocumentMoniker": "C:\\repo\\GESTION_HELADERIA\\FormularioAgregarProducto.cs",
-              "RelativeDocumentMoniker": "FormularioAgregarProducto.cs",
-              "ToolTip": "C:\\repo\\GESTION_HELADERIA\\FormularioAgregarProducto.cs",
-              "RelativeToolTip": "FormularioAgregarProducto.cs",
-              "ViewState": "AQIAAKsAAAAAAAAAAAAQwL0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T13:12:51.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\repo\\GESTION_HELADERIA\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\repo\\GESTION_HELADERIA\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
